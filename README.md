@@ -43,8 +43,9 @@
 <p align="center">
 Hello! I'm **Safaa**, a Software Engineering student interested in building useful, maintainable, and scalable applications.
 </p>
-</br>
-<table>
+
+<p align="center">
+    <table>
 <tr>
 <td width="33%" valign="top" align="center">
 <h3>🎓 Software Engineering</h3>
@@ -92,6 +93,8 @@ Seeking a PFE Internship · 2027
 </td>
 </tr>
 </table>
+</p>
+
 
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
 
@@ -158,7 +161,7 @@ A full-stack web application designed to simplify product, inventory, and sales 
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=safaamghar12&show_icons=true&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safaamghar12&layout=compact&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&hide_border=true&langs_count=8"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safaamghar12&layout=compact&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&hide_border=true&langs_count=6"/>
 </p>
 
 <p align="center">
